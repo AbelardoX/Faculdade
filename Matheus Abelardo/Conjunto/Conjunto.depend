@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1649293618 source:c:\users\aluno\documents\matheus abelardo\conjunto\conjunto.c
+	"conjunto.h"
+
+1649293691 source:c:\users\aluno\documents\matheus abelardo\conjunto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+
+1649292859 c:\users\aluno\documents\matheus abelardo\conjunto\conjunto.h
+
+1649896967 source:f:\aeds\matheus abelardo\conjunto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+
+1649896955 f:\aeds\matheus abelardo\conjunto\conjunto.h
+
+1649897002 source:f:\aeds\matheus abelardo\conjunto\conjunto.c
+	"conjunto.h"
+
+1649896967 source:e:\aeds\matheus abelardo\conjunto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+
+1649896955 e:\aeds\matheus abelardo\conjunto\conjunto.h
+
+1649897002 source:e:\aeds\matheus abelardo\conjunto\conjunto.c
+	"conjunto.h"
+

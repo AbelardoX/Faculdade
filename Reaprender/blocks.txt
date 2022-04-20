@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int x,y;
+
+    printf("Digite o primeiro numero:");
+    scanf(%d,&x);
+    printf("Digite o segundo nuemero:");
+    scanf(%d,&y);
+
+    soma(x,y);
+    printf("Hello world!\n");
+    return 0;
+}
+
+
+int soma (int x,int y){
+
+    int R;
+    R = x + y;
+
+return R;
+
+}

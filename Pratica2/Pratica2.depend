@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650397474 source:f:\aeds\pratica2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conjunto.h"
+	<stddef.h>
+
+1650397475 f:\aeds\pratica2\conjunto.h
+	<stddef.h>
+
+1650397444 source:f:\aeds\pratica2\conjunto.c
+	"conjunto.h"
+	<stddef.h>
+
